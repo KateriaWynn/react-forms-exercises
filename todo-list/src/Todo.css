@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+p,
+label {
+  color: white;
+  font-weight: bold;
+  width: 60%;
+}
